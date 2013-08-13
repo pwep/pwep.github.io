@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Peter Phillips"
 date:   2013-08-09 13:52:39
-categories: jekyll update
 ---
 
 Dr. Peter Phillips  
