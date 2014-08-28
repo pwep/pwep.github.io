@@ -1,6 +1,7 @@
 ---
 title:  "Test page at the root"
 date:   2014-08-28 13:52:39
+layout:	page
 ---
 
 Dr. Peter Phillips  
