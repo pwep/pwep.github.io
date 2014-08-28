@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Peter Phillips"
 date:   2014-08-28 13:52:39
 ---
