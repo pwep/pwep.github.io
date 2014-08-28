@@ -5,7 +5,7 @@ date:   2014-08-28 13:52:39
 ---
 
 Dr. Peter Phillips  
-Faculty of Health and Wellbeing  
+Faculty of Health and Science  
 University of Cumbria  
 Lancaster  
 LA1 3JD  
